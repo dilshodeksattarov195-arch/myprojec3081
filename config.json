@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenvrocess",
+        "uuid": 18399732,
+        "checksum": "rbzy1"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
